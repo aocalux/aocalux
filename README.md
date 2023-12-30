@@ -4,7 +4,7 @@ Hi, mein Name ist Chris. Ich bin 18 Jahre alt und besuche derzeit noch die Schul
 
 
 ## ABOUT ME
-Hi, my name is Chris. I am 18 years old and currently still attending school. I'm in the 12th grade and completing a technical high school with the information technology profile at the [Albert-Einstein-School Ettlingen](https://www.aesettlingen.de). I'm interested in computer science and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, please take a look at my private website [chris-prickartz.de](http://chris-prickartz.de)(unfortunately only in German, I'm too lazy to translate it). You are also welcome to check out my [social media accounts](https://chris-prickartz.de/social/).
+Hi, my name is Chris. I am 18 years old and currently still attending school. I'm in the 12th grade and completing a technical high school with the information technology profile at the [Albert-Einstein-School Ettlingen](https://www.aesettlingen.de). I'm interested in computer science and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, please take a look at my private website [chris-prickartz.de](http://chris-prickartz.de) (unfortunately only in German, I'm too lazy to translate it). You are also welcome to check out my [social media accounts](https://chris-prickartz.de/social/).
 
 
 <!---
