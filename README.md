@@ -1,4 +1,5 @@
-Hi
+## ABOUT ME
+Hi, mein Name ist Chris. Ich bin 18 Jahre alt und besuche derzeit noch die Schule. Aktuell gehe ich in die 12. Klasse bzw. in die Jahrgangsstufe 1. Ich absolviere das Technische Gymnasium mit dem Profil Informationstechnik an der [Albert-Einstein-Schule Ettlingen](https://www.aesettlingen.de). Ich interessiere mich für Informatik sowie Medienproduktion. Außerdem spiele ich in meiner Freizeit Schlagzeug und programmiere gerne.
 
 <!---
 chris-pri05/chris-pri05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
