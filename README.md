@@ -1,14 +1,30 @@
 ##
 
+### 🚀 About me
+Hi, my name is Chris. I am 18 years old, live near Karlsruhe *(in Germany)* and am currently still attending school. I'm in the 12th grade and completing a technical high school with the information technology profile at the [Albert-Einstein-School Ettlingen](https://www.aesettlingen.de). I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [chris-prickartz.de](http://chris-prickartz.de) or read a blog post from me: [blog.chris-prickartz,de](https://blog.chris-prickartz.de) (both only in German, I'm too lazy to translate it. But i'm sure you know how to use google translate if you do not speak german.). You are also welcome to check out my [social media accounts](https://chris-prickartz.de/social/).
 
-### ABOUT ME
-Hi, my name is Chris. I am 18 years old, live near Karlsruhe *(in Germany)* and am currently still attending school. I'm in the 12th grade and completing a technical high school with the information technology profile at the [Albert-Einstein-School Ettlingen](https://www.aesettlingen.de). I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [chris-prickartz.de](http://chris-prickartz.de) or read a blog post from me: [blog.chris-prickartz,de](https://blog.chris-prickartz.de) (both only in German, I'm too lazy to translate it. But i'm sure you know how to use google translate if you do not speak german.). You are also welcome to check out my [social media accounts](https://chris-prickartz.de/social/). If you want to get in touch with me, feel free to send me an email at [hi@aocalux.dev](mailto:hi@aocalux.dev).
+##
 
-### MY WEBSITES
+### 🔧 Technologies and capabilities
+- C# .NET
+- Java
+- HTML and CSS
+- Visual Basic
+- *and some more*
+
+##
+
+### 🌐 My websites
 I run several websites, not all of which are built the same. My websites are:
-- 🌐 [chris-prickartz.de](https://chris-prickartz.de) - My personal website
-- 📝 [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - My personal blog
-- 🧑‍💻 [www.aocalux.dev](https://www.aocalux.dev) - My website for all my code projects
+- 🙂 [chris-prickartz.de](https://chris-prickartz.de) - My personal website
+- 📓 [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - My personal blog
+- 🔨 [www.aocalux.dev](https://www.aocalux.dev) - My website for all my code projects
+
+##
+
+### 📫 Contact
+📧 Email: [hi@aocalux.dev](hi@aocalux.dev)  
+📱 Socials: [chris-prickartz.de/social](https://chris-prickartz.de/social)
 
 
 ##
