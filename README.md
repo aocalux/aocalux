@@ -4,6 +4,7 @@ Hi, mein Name ist Chris. Ich bin 18 Jahre alt und besuche derzeit noch die Schul
 ### WEBSEITEN VON MIR
 Ich betreibe mehrere webseiten, die auch nicht alle gleich gebaut sind. Meine Webseiten sind:
 - [chris-prickartz.de](https://chris-prickartz.de) - Meine persönliche Webseite
+- [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - Mein persönlicher Blog
 - [www.aocalux.dev](https://www.aocalux.dev) - Meine Webseite für alle meine Code-Projekte
 
 ##  
@@ -14,6 +15,7 @@ Hi, my name is Chris. I am 18 years old and currently still attending school. I'
 ### MY WEBSITES
 I run several websites, not all of which are built the same. My websites are:
 - [chris-prickartz.de](https://chris-prickartz.de) - My personal website
+- [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - My personal blog
 - [www.aocalux.dev](https://www.aocalux.dev) - My website for all my code projects
 
 <!---
