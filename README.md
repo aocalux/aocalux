@@ -9,7 +9,6 @@ Hi, my name is Chris. I am 18 years old, live near Karlsruhe *(in Germany)* and 
 - C# .NET
 - Java
 - HTML and CSS
-- Visual Basic
 - *and some more*
 
 ##
