@@ -1,7 +1,7 @@
 ##
 
 ### 🚀 About me
-Hi, my name is Chris. I am 18 years old, live near Karlsruhe *(in Germany)* and am currently still attending school. I'm in the 12th grade and completing a technical high school with the information technology profile at the [Albert-Einstein-School Ettlingen](https://www.aesettlingen.de). I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [chris-prickartz.de](http://chris-prickartz.de) or read a blog post from me: [blog.chris-prickartz,de](https://blog.chris-prickartz.de) (both only in German, I'm too lazy to translate it. But i'm sure you know how to use google translate if you do not speak german.). You are also welcome to check out my [social media accounts](https://chris-prickartz.de/social/).
+Hi, my name is Chris. I am 18 years old, live near Karlsruhe *(in Germany)* and am currently still attending school. I'm in the 12th grade and completing a technical high school with the information technology profile at the [Albert-Einstein-School Ettlingen](https://www.aesettlingen.de). I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [chris-prickartz.de](http://chris-prickartz.de) or read a blog post from me: [blog.chris-prickartz.de](https://blog.chris-prickartz.de) (both only in German, I'm too lazy to translate it. But i'm sure you know how to use google translate if you do not speak german.). You are also welcome to check out my [social media accounts](https://chris-prickartz.de/social/).
 
 ##
 
