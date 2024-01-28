@@ -22,7 +22,7 @@ I run several websites, not all of which are built the same. My websites are:
 ##
 
 ### 📫 Contact
-📧 Email: [hi@aocalux.dev](hi@aocalux.dev)  
+📧 Email: [hi@aocalux.dev](mailto:hi@aocalux.dev)  
 📱 Socials: [chris-prickartz.de/social](https://chris-prickartz.de/social)
 
 
