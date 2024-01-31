@@ -18,7 +18,6 @@ I run several websites, not all of which are built the same. My websites are:
 - 🙂 [chris-prickartz.de](https://chris-prickartz.de) - My personal website *(German)*
 - 📓 [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - My personal blog *(German)*
 - 🔨 [www.aocalux.dev](https://www.aocalux.dev) - My website for all my code projects *(German)*
-- 📺 [tv.aocalux.dev](https://tv.aocalux.dev) - My video Website *(German)*
 
 ##
 
