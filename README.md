@@ -19,6 +19,7 @@ I run several websites, not all of which are built the same. My websites are:
 - 📓 [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - My personal blog *(German)*
 - 🔨 [www.aocalux.dev](https://www.aocalux.dev) - My website for all my code projects *(English)*
 - 📏 [gochris.li](https://gochris.li) - My personal url shortener *(German)*
+- 🦺 [service.chrispri.de](https://service.chrispri.de) - Mostly random stuff for myself *(German)*
 
 ##
 
