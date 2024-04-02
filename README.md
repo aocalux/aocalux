@@ -8,6 +8,7 @@ Hi, my name is Chris 😈. I am 18 years old, live near Karlsruhe *(in Germany)*
 ### 🔧 Technologies and capabilities
 - C# .NET
 - Java
+- Python
 - HTML and CSS
 - *and some more*
 
