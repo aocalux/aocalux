@@ -41,10 +41,3 @@ I'm present on most popular social media platforms:
 
 
 ##
-
-<!---
-
-aocalux/aocalux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
