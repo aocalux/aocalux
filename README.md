@@ -6,11 +6,16 @@ Hi, my name is Chris 👋. I am 18 years old, live near Karlsruhe *(in Germany)*
 ##
 
 ### 🔧 Technologies and capabilities
+
+##### &nbsp;&nbsp; I know and use regularly
 - C# .NET
 - Java
 - Python
 - HTML and CSS
 - *and some more*
+  
+##### &nbsp;&nbsp; Currently learning
+- *Kotlin*
 
 ##
 
