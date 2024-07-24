@@ -16,7 +16,6 @@ Hi, my name is Chris 👋. I am 18 years old, live near Karlsruhe *(in Germany)*
   
 #### &nbsp;&nbsp; Currently learning / play around with
 - *Kotlin*
-- *C*
 
 ##
 
