@@ -38,6 +38,7 @@ I'm present on most popular social media platforms:
 - 🔗 Threads: [@chris._pri](https://chris-prickartz.de/go/threads/)
 - 👻 Snapchat: [@chris_pri](https://chris-prickartz.de/go/snapchat/)
 - 🎬 YouTube: [@aocalux](https://chris-prickartz.de/go/youtube/)
+- 🔴 Twitch: [aocalux](https://chris-prickartz.de/go/twitch/)
 
 ##
 
