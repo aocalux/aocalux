@@ -33,12 +33,7 @@ I run several websites, not all of which are built the same. My websites are:
 
 ### 📱 My Socials 
 I'm present on most popular social media platforms:
-- 📸 Instagram: [@chris._pri](https://chris-prickartz.de/go/instagram/)
-- 🐘 Mastodon: [@chris_pri@mastodon.social](https://chris-prickartz.de/go/mastodon/)
-- 🔗 Threads: [@chris._pri](https://chris-prickartz.de/go/threads/)
-- 👻 Snapchat: [@chris_pri](https://chris-prickartz.de/go/snapchat/)
-- 🎬 YouTube: [@aocalux](https://chris-prickartz.de/go/youtube/)
-- 🔴 Twitch: [aocalux](https://chris-prickartz.de/go/twitch/)
+- all profiles: [gochris.li/social](http://gochris.li/social/)
 
 ##
 
