@@ -23,7 +23,7 @@ Hi, my name is Chris 👋. I am 20 years old, live in Karlsruhe *(Germany)* and 
 ### 🌐 My websites
 I run several websites, not all of which are built the same. My websites are:
 - 🙂 [chris-prickartz.de](https://chris-prickartz.de) - My personal website *(German)*
-- 📰 [blog.chris-prickartz.de](https://blog.chris-prickartz.de) - My personal blog *(German)*
+- 📰 [chris-prickartz.de/blog](https://chris-prickartz.de/blog) - My personal blog *(German)*
 - 🔨 [www.aocalux.com](https://www.aocalux.com) - My website for all my online projects *(English)*
 - 🦺 [service.chrispri.de](https://service.chrispri.de) - Mostly random stuff for myself *(German)*
 - 🎨 [colors.aocalux.com](https://colors.aocalux.com/) - All HTML colors that have a name *(English)*
