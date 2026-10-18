@@ -37,7 +37,7 @@ I'm present on most popular social media platforms:
 ##
 
 ### 📫 Contact
-- 📧 Email: [contact@chris-prickartz.de](mailto:contact@chris-prickartz.de)  
+- 📧 Email: [prickartz@staff.aocalux.com](mailto:prickartz@staff.aocalux.com)  
 - 📱 Socials: [chris-prickartz.de/social](https://chris-prickartz.de/social)
 
 
