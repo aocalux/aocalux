@@ -1,7 +1,7 @@
 ##
 
 ### 🚀 About me
-Hi, my name is Julia 👋. I am 20 years old, live in Karlsruhe *(Germany)* and am a student at Karlsruhe University of Education. I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [www.juliapri.pink](http://www.juliapri.pink) or read a blog post from me: [www.juliapri.pink/blog](https://bwww.juliapri.pink/blog) (both only in German, I'm too lazy to translate them. But i'm sure you know how to use google translate if you do not speak german.). You are also welcome to check out my [social media accounts](http://www.juliapri.pink/social).
+Hi, my name is Julia 👋. I am 20 years old, live in Karlsruhe *(Germany)* and am a student at Karlsruhe University of Education. I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [www.juliapri.pink](http://www.juliapri.pink) or read a blog post from me: [www.juliapri.pink/blog](https://www.juliapri.pink/blog) (both only in German, I'm too lazy to translate them. But i'm sure you know how to use google translate if you do not speak german.). You are also welcome to check out my [social media accounts](http://www.juliapri.pink/social).
 
 ##
 
