@@ -16,7 +16,7 @@ Hi, my name is Julia 👋. I am 21 years old, live in Karlsruhe *(Germany)* and 
 - *and some more*
   
 #### &nbsp;&nbsp; Currently learning / play around with
-- *Kotlin*
+- *Kotlin and Julia*
 
 ##
 
