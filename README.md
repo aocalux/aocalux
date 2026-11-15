@@ -1,6 +1,6 @@
 # Hey, I'm Julia 👋
 
-I'm a developer and university student at **[Karlsruhe University of Education](https://www.ph-karlsruhe.de/)** in Germany.
+I'm a developer and university student at **Karlsruhe University of Education** in Germany.
 
 I'm passionate about computer science, software development and digital media. I enjoy exploring new technologies, working on personal projects and bringing ideas to life through code.
 
