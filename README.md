@@ -22,7 +22,7 @@ Hi, my name is Julia 👋. I am 21 years old, live in Karlsruhe *(Germany)* and 
 
 ### 🌐 My websites
 I run several websites, not all of which are built the same. My websites are:
-- 🙂 [www.juliapri.pink](https://www.juliapri.pink) - My personal website *(German)*
+- 🙂 [www.juliapri.pink](https://www.juliapri.pink) - My personal website *(mostly English with some German parts)*
 - 🔨 [www.aocalux.com](https://www.aocalux.com) - My website for all my online projects *(English)*
 - 🎨 [colors.aocalux.com](https://colors.aocalux.com/) - All HTML colors that have a name *(English)*
 
