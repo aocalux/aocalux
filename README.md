@@ -12,17 +12,10 @@ Outside of programming, I enjoy playing drums and exploring other creative inter
 
 ### 🛠️ Technologies & Tools
 
-**What I work with**
+| C# / .NET | Java | Python | HTML, CSS & JavaScript | PHP |  
+|---|---|---|---|---|
 
-- C# / .NET
-- Java
-- Python
-- HTML, CSS & JavaScript
-- PHP
-
-**Currently exploring**
-
-- *Kotlin and Julia*
+**Currently exploring:** *Kotlin & Julia*
 
 ---
 
