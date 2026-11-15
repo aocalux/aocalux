@@ -1,4 +1,4 @@
-# Hey, I'm Julia! 👋
+# Hey, I'm Julia 👋
 
 I'm a developer and university student at **Karlsruhe University of Education** in Germany.
 
