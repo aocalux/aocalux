@@ -12,17 +12,14 @@ Outside of programming, I enjoy playing drums and exploring other creative inter
 
 ### 🛠️ Technologies & Tools
 
-| C# / .NET | Java | Python | HTML, CSS & JavaScript | PHP |  
-|---|---|---|---|---|
-
-**Currently exploring:** *Kotlin & Julia*
+| C# / .NET | Java | Python | HTML, CSS & JavaScript | PHP | *Currently exploring: Kotlin & Julia* |
+|---|---|---|---|---|---|
 
 ---
 
 ### 📬 Get in touch
 
 - **Email:** [prickartz@staff.aocalux.com](mailto:prickartz@staff.aocalux.com)
-- **Social media:** [go.juliapri.pink/social](https://go.juliapri.pink/social)
 
 ---
 
