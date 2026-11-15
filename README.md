@@ -1,42 +1,48 @@
-##
+# Hey, I'm Julia! 👋
 
-### 🚀 About me
-Hi, my name is Julia 👋. I am 21 years old, live in Karlsruhe *(Germany)* and am a student at Karlsruhe University of Education. I'm interested in computer science, coding and media production. I my free time I enjoy playing drums and programming. If you would like to know more about me, take a look at my personal website: [www.juliapri.pink](http://www.juliapri.pink) or read a blog post from me: [www.juliapri.pink/blog](https://www.juliapri.pink/blog). You are also welcome to check out my [social media accounts](http://www.juliapri.pink/social).
+I'm a developer and university student at **Karlsruhe University of Education** in Germany.
 
-##
+I'm passionate about computer science, software development and digital media. I enjoy exploring new technologies, working on personal projects and bringing ideas to life through code.
 
-### 🔧 Technologies and capabilities
+Outside of programming, I enjoy playing drums and exploring other creative interests.
 
-#### &nbsp;&nbsp; I know and regularly use
-- C# .NET
+🌐 **[Website](https://www.juliapri.pink)** &nbsp;·&nbsp; 📝 **[Blog](https://www.juliapri.pink/blog)** &nbsp;·&nbsp; 💬 **[Social media](https://www.juliapri.pink/social)**
+
+---
+
+### 🛠️ Technologies & Tools
+
+**What I work with**
+
+- C# / .NET
 - Java
 - Python
-- HTML, CSS, and JavaScript
+- HTML, CSS & JavaScript
 - PHP
-- *and some more*
-  
-#### &nbsp;&nbsp; Currently learning / play around with
+
+**Currently exploring**
+
 - *Kotlin and Julia*
 
-##
+---
 
-### 🌐 My websites
-I run several websites, not all of which are built the same. My websites are:
-- 🙂 [www.juliapri.pink](https://www.juliapri.pink) - My personal website *(mostly English with some German parts)*
-- 🔨 [www.aocalux.com](https://www.aocalux.com) - My website for all my online projects *(English)*
-- 🎨 [colors.aocalux.com](https://colors.aocalux.com/) - All HTML colors that have a name *(English)*
+### 🌍 Around the web
 
-##
+Besides GitHub, I work on and maintain a few websites and personal projects:
 
-### 📱 My Socials 
-I'm present on most popular social media platforms:
-- all profiles: [go.juliapri.pink/social](http://go.juliapri.pink/social)
+| Website | Description |
+|---|---|
+| [juliapri.pink](https://www.juliapri.pink) | My personal website, where you can learn more about me and what I do. |
+| [aocalux.com](https://www.aocalux.com) | A home for my online projects and experiments. |
+| [colors.aocalux.com](https://colors.aocalux.com) | An overview of named HTML colors and their values. |
 
-##
+---
 
-### 📫 Contact
-- 📧 Email: [prickartz@staff.aocalux.com](mailto:prickartz@staff.aocalux.com)  
-- 📱 Socials: [go.juliapri.pink/social](https://go.juliapri.pink/social)
+### 📬 Get in touch
 
+- **Email:** [prickartz@staff.aocalux.com](mailto:prickartz@staff.aocalux.com)
+- **Social media:** [go.juliapri.pink/social](https://go.juliapri.pink/social)
 
-##
+---
+
+*Thanks for stopping by! Feel free to have a look around my repositories.*
