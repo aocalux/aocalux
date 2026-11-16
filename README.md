@@ -6,7 +6,7 @@ I'm passionate about computer science, software development and digital media. I
 
 Outside of programming, I enjoy playing drums and exploring other creative interests.
 
-🌐 **[Website](https://www.juliapri.pink)** &nbsp;·&nbsp; 📝 **[Blog](https://www.juliapri.pink/blog)** &nbsp;·&nbsp; ⚙️ **[Projects Page](https://www.aocalux.com)** &nbsp;·&nbsp; 💬 **[Social media](https://www.juliapri.pink/social)** &nbsp;·&nbsp; 📬 **[prickartz@staff.aocalux.com](mailto:prickartz@staff.aocalux.com)**
+🌐 **[Website](https://www.juliapri.pink)** &nbsp;·&nbsp; 📝 **[Blog](https://www.juliapri.pink/blog)** &nbsp;·&nbsp; ⚙️ **[Projects Page](https://www.aocalux.com)** &nbsp;·&nbsp; 💬 **[Social media](https://www.juliapri.pink/social)** &nbsp;·&nbsp; 📬 **[julia@aocalux.com](mailto:julia@aocalux.com)**
 
 ---
 
